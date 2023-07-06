@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "name": "Airpods Wireless Bluetooth Headphones",
+        "description": "Bluetooth technology lets you connect it woth compatible devices",
+        "price": 89.99
+    },
+    {
+        "id": "2",
+        "name": "IPhone 11 Pro",
+        "description": "Bluetooth technology lets you connect it woth compatible devices",
+        "price": 499.99
+    },
+    {
+        "id": "3",
+        "name": "Nicon D80",
+        "description": "Bluetooth technology lets you connect it woth compatible devices",
+        "price": 139.99
+    },
+    {
+        "id": "4",
+        "name": "Samsung Galaxy S10",
+        "description": "Bluetooth technology lets you connect it woth compatible devices",
+        "price": 79.99
+    }
+]
